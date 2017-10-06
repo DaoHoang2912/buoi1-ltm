@@ -1,0 +1,6 @@
+D:\Project VS\DaoMinhHoang-B1\DaoMinhHoang-B1\bin\Release\DaoMinhHoang-B1.exe.config
+D:\Project VS\DaoMinhHoang-B1\DaoMinhHoang-B1\bin\Release\DaoMinhHoang-B1.exe
+D:\Project VS\DaoMinhHoang-B1\DaoMinhHoang-B1\bin\Release\DaoMinhHoang-B1.pdb
+D:\Project VS\DaoMinhHoang-B1\DaoMinhHoang-B1\obj\Release\Bai1.csprojResolveAssemblyReference.cache
+D:\Project VS\DaoMinhHoang-B1\DaoMinhHoang-B1\obj\Release\DaoMinhHoang-B1.exe
+D:\Project VS\DaoMinhHoang-B1\DaoMinhHoang-B1\obj\Release\DaoMinhHoang-B1.pdb
